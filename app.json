@@ -1,0 +1,22 @@
+{
+  "name": "PaperPilot AI",
+  "version": "1.0.0",
+  "description": "An AI-powered academic research assistant built using IBM watsonx Orchestrate, IBM Granite Models, and Retrieval-Augmented Generation (RAG).",
+  "author": "Hackathon Team",
+  "repository": "https://github.com/harshad-bgt/paperpilot",
+  "technologies": [
+    "HTML5",
+    "CSS3",
+    "Vanilla JavaScript",
+    "IBM watsonx Orchestrate",
+    "IBM Granite Models",
+    "Retrieval-Augmented Generation (RAG)"
+  ],
+  "features": [
+    "Research Paper Summarization",
+    "Literature Review Generation",
+    "Research Gap Detection",
+    "Methodology Comparison",
+    "Knowledge Discovery"
+  ]
+}
